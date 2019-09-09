@@ -7,7 +7,7 @@ class Toyotter < Formula
   homepage "https://github.com/KeisukeToyota/ruget"
   sha256 "088b065570c67f938296e2172d21ce5012b9093fa07f4b1685247a6236f59e66"
 
-  version "v#{HOMEBREW_TOYOTTER_VERSION}"
+  version "v#{HOMEBREW_RUGET_VERSION}"
   head "https://github.com/KeisukeToyota/ruget.git", :branch => "master"
 
   def install
